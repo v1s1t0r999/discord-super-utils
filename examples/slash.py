@@ -1,3 +1,10 @@
+"""
+The SlahsManager is deprecated.
+It is no longer supported.
+Install v0.2.4 (ig) - pip install discordSuperUtils-0.2.4
+"""
+
+
 import discord
 from discord.ext import commands
 
